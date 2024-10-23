@@ -1,6 +1,6 @@
 name: Site Policy Reminder
 
-# **What it does**: Automated comment reminder on a PR to change the title for public consumption before merging and to run the Site Policy repo sync action
+# **What it does**: Automated comment reminder on a PR to change the title for public consumption before merging and to run the "Site" Policy repo sync action
 # **Why we have it**: Titles of merged PRs to Site Policies are sent to the public site-policy repo when the repos are synced
 # **Who does it impact**: Everyone merging changes to Site Policies
 
